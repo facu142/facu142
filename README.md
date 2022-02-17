@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @facu142
-- 📚 I’m currently studying Information Systems Engineering, at Universidad Tecnologica Nacional (National Technological University of Argentina)
+- 📚 I’m currently studying Information Systems Engineering at Universidad Tecnologica Nacional (National Technological University of Argentina)
 - 👀 I’m interested in Full-Stack development
 - 🌱 I’m currently learning React, Node.js, MySQL and MongoDB
 
